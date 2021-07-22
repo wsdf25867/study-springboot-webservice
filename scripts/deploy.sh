@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPOSITORY=/home/ec-user/app/step2
+REPOSITORY=/home/ec2-user/app/step2
 PROJECT_NAME=study-springboot-webservice
 
 echo "> Build 파일복사"
